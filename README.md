@@ -102,5 +102,5 @@ This project demonstrates a practical, end-to-end machine learning workflow with
 ----------
 
 Anthony Mndenyi<br>
-Second Year Student | Multimedia University Of Kenya
-Aspiring Data Scientist / Machine Learning Engineer
+- Second Year Student | Multimedia University Of Kenya
+- Aspiring Data Scientist / Machine Learning Engineer
