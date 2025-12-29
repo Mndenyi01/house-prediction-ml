@@ -2,11 +2,15 @@ A basic skill representation.
 
 Project Architecture and structure initialisation.
 
-🏠 House Price Prediction – End-to-End ML Project
+🏠 House Price Prediction – Project
 --------------------------------------------------
 1. 📌 Project Overview
 
-This project is an end-to-end machine learning regression pipeline designed to predict house prices using structured housing data. It covers the full ML lifecycle — from data cleaning and exploratory analysis to model training, evaluation, regularization, and deployment through an interactive Streamlit dashboard.
+This project is an end-to-end machine learning regression pipeline designed to predict house prices using structured housing data. It covers the full ML lifecycle — from data cleaning and exploratory analysis to model training, evaluation, regularization, and deployment through an interactive Streamlit dashboard.<br>
+The Dataset was downloaded from Kaggle, link below:-
+
+https://www.kaggle.com/datasets/rishitaverma02/house-prices-advanced-regression-techniques
+<br> - Rishita Verma <br>(I hope it's correct)
 
 The goal of the project is not only predictive performance, but also interpretability, stability, and real-world usability.
 
@@ -97,5 +101,6 @@ This project demonstrates a practical, end-to-end machine learning workflow with
 👤 Author
 ----------
 
-Tony Mdenyi
+Anthony Mndenyi<br>
+Second Year Student | Multimedia University Of Kenya
 Aspiring Data Scientist / Machine Learning Engineer
